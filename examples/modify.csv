@@ -1,0 +1,3 @@
+Id,Hostname,Status,Comment,FindingDetails,StatusUpdate,CommentUpdate,FindingDetailsUpdate
+V-222949,,,,,NotAFinding,"The generic tomcat user is not used for the application, therefor this finding could not be checked properly. The actual tomcat user used in the application has the correct UMASK applied.",
+V-214274,,,,,NotAFinding,"httpasswd files are used within the apache tomcat instance.",
